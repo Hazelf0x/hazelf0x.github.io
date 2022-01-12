@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on site of a fox called hazel</title>
+    <link>https://catgirl.expert/posts/</link>
+    <description>Recent content in Posts on site of a fox called hazel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022 hazelf0x</copyright>
+    <lastBuildDate>Wed, 12 Jan 2022 03:05:08 +0200</lastBuildDate><atom:link href="https://catgirl.expert/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://catgirl.expert/posts/first/</link>
+      <pubDate>Wed, 12 Jan 2022 03:05:08 +0200</pubDate>
+      
+      <guid>https://catgirl.expert/posts/first/</guid>
+      <description>Testing making a first post&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
